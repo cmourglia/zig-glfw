@@ -14,12 +14,12 @@
     },
     .dependencies = .{
         .xcode_frameworks = .{
-            .url = "https://pkg.machengine.org/xcode-frameworks/2fca968efa90a4060803c56dd0f027890353f0a9.tar.gz",
-            .hash = "122010c1a745ea06dee3012fbd3b311bd3d75ec39ded6bf566b36ebe3cd8da482347",
+            .url = "https://github.com/cmourglia/xcode-frameworks/archive/39f1a71b139b30cb63fd63250f5a3b1877d6e820.tar.gz",
+            .hash = "1220952bf2759bf72187441dead4dfcebce9ff0d6e1cbb4a68355a11d1f7287e0683",
         },
         .vulkan_headers = .{
-            .url = "https://pkg.machengine.org/vulkan-headers/e33f2e482893a90bb36d67649ab30d5236ac21ab.tar.gz",
-            .hash = "122017098e4ca00dac1a9d30d152a6e6e9522843219c6df4489210fb7c8a6e4c7c1a",
+            .url = "https://github.com/cmourglia/vulkan-headers/archive/17c42dc5d842c86328685bccdf3b3da721968068.tar.gz",
+            .hash = "122004bfd4c519dadfb8e6281a42fc34fd1aa15aea654ea8a492839046f9894fa2cf",
             .lazy = true,
         },
         .wayland_headers = .{
